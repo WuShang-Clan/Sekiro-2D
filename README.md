@@ -1,7 +1,7 @@
 # Sekiro 2D — Shadows Die Twice
 
 A 2D posture-based samurai duelling game built with C++ and SFML 2.6.1, inspired by Sekiro. It features a six-boss campaign, a 2-player versus mode, deflection and posture combat, deathblow cinematics, three save slots, and a fully procedural fallback for all art, sound and arenas, so it runs even with no asset files.
-![Gameplay](screenshots/gameplay.png)
+![Gameplay](Screenshots/gameplay.png)
 
 ## Features
 
